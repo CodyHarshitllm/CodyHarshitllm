@@ -68,8 +68,6 @@ An interactive browser game built to practice logic and frontend interaction.
 ## Connect
 
 - GitHub: https://github.com/CodyHarshitllm
-- Email: your.email@example.com
-- LinkedIn: https://linkedin.com/in/your-profile
 
 ## Profile Summary
 
